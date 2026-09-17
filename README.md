@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Devvrat 👋
 
-<!--
-**devvrat015/Devvrat015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate about software development and building useful projects
+- 🌱 Currently learning and improving every day
+- 🤝 Open to collaboration on interesting ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript, Python, Java, C++
+- **Tools:** Git, GitHub, VS Code
+- **Interests:** Web Development, Open Source, Problem Solving
+
+## 📌 Featured Work
+- Add your best repositories here with short descriptions.
+- Example: **Project Name** — what it does and why it’s useful.
+
+## 📫 Connect With Me
+- GitHub: [@devvrat015](https://github.com/devvrat015)
+- LinkedIn: Add your LinkedIn URL
+- Email: Add your email address
+
+---
+⭐️ Thanks for visiting my profile!
